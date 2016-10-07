@@ -22,7 +22,7 @@ def get_artist_data
                   },
     "kendricklamar" => {
                     name: "Kendrick Lamar",
-                    photo_url: "http://www.xxlmag.com/wp-content/uploads/2013/06/kendricklamar_001-1600.jpg",
+                    photo_url: "http://hfhy64.com/images/kendrick-lamar/kendrick-lamar-02.jpg",
                     nationality: "USA",
                   }
     }
