@@ -1,6 +1,6 @@
 <h2>Edit <%= @artist.name %></h2>
 
-<%= form_for @artist, url: "/artists/#{@artist.id}" do |f| %>
+<%= form_for @artist, url: "/artists/#{@artist.id}", method: :put do |f| %>
   <%= f.label :name %>
   <%= f.text_field :name %>
 
