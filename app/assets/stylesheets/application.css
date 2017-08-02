@@ -51,7 +51,7 @@
   }
 
   h1 {
-    font-inherit;
+    font:inherit;
     color:inherit;
     letter-spacing:-.05em;
     text-decoration:none;
@@ -83,7 +83,7 @@
     font-size: 14px;
     color: #FFFFFF;
   }
-  
+
   .artist-photo {
     width: 400px;
   }
